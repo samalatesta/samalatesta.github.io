@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download full CV with complete list of publications. 
 
 Education
 ======
@@ -22,7 +23,6 @@ Research Positions
 
 * 2024 - Present: Postdoctoral Fellow
   * Boston University Clinical HIV/AIDS Research Training Program
-  * Ruth L. Kirschstein NRSA Institutional Research Training Grant
   * Section of Infectious Diseases, Boston Medical Center, Boston, MA
 
 * 2020-2024: Graduate Research Assistant
@@ -30,7 +30,6 @@ Research Positions
 
 * 2019 - 2020: Predoctoral Trainee
   * Interdisciplinary Training Program for Biostatisticians
-  * Ruth L. Kirschstein NRSA Institutional Research Training Grant
   * Department of Biostatistics, Boston University School of Public Health, Boston, MA
 
 Computing
