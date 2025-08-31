@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics, Boston University, 2024
+* B.S. in Statistics, North Carolina State University, 2019
 
-Work experience
+Research Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025 - Present: Visiting Postdoctoral Scholar
+  * Bacterial Genomics Group, Genomic Center for Infectious Diseases
+  * Broad Institute of MIT and Harvard, Cambridge, MA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024 - Present: Postdoctoral Fellow
+  * Boston University Clinical HIV/AIDS Research Training Program
+  * Ruth L. Kirschstein NRSA Institutional Research Training Grant
+  * Section of Infectious Diseases, Boston Medical Center, Boston, MA
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020-2024: Graduate Research Assistant
+  * Section of Infectious Diseases, Boston Medical Center, Boston, MA
 
-Publications
+* 2019 - 2020: Predoctoral Trainee
+  * Interdisciplinary Training Program for Biostatisticians
+  * Ruth L. Kirschstein NRSA Institutional Research Training Grant
+  * Department of Biostatistics, Boston University School of Public Health, Boston, MA
+
+Computing
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Modeling & Data Analysis
+  * R (advanced), Python (basic), SAS (proficient)
+* High-Performance Computing & Reproducibility
+  * Git/GitHub, Docker, Google Cloud Platform
+* Other Tools:
+  * LaTeX, markdown, data visualization (ggplot2)
