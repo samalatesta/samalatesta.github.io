@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Samantha A. Malatesta"
 title_separator          : "-"
 name                     : &name "Samantha A. Malatesta"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Postdoctoral Research Fellow; biostatistics; infectious diseases; tuberculosis"
 url                      : https://samalatesta.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samalatesta/samalatesta.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Samantha A. Malatesta"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Fellow"
   location         : "Boston, MA"
   employer         : "Boston Medical Center"
   uri              : # URL
