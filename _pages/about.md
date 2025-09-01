@@ -32,7 +32,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
   var talks = [
     { lat: 42.3601, lon: -71.0589, conference: "New England Statistics Symposium", date: "June 2022" },
     { lat: 48.864716, lon: 2.349014, conference: "The Union World Conference on Lung Health", date: "November 2023" },
-    { lat: 51.5074, lon: -0.1278, conference: "International Biostatistics Workshop", date: "September 8, 2023" },
+    { lat: 55.6761, lon: 12.5683, conference: "The Union World Conference on Lung Health", date: "November 2025" },
     { lat: 41.8781, lon: -87.6298, conference: "SER Conference", date: "June 12, 2024" }
   ];
   
