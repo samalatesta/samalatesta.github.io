@@ -17,7 +17,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
 
 ## 🌍 Sharing Research Across the Globe
 
-<div id="talks-map" style="height: 600px;"></div>
+<div id="talks-map" style="height: 400px;"></div>
 
 <!-- Leaflet CSS & JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
