@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-CV with complete list of publications (last updated August 2025). 
+[CV](/files/) with complete list of publications (last updated August 2025). 
 
 Education
 ======
