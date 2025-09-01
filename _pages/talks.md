@@ -15,29 +15,16 @@ Here’s a curated list of talks and presentations I’ve given at conferences a
 ### **The Union World Conference on Lung Health**
 - **Title:** *Smoked drug use drives tuberculosis transmission dynamics in a rural community in the Western Cape, South Africa*  
 - **Date:** November 2025  
-- **Location:** Copenhagen, Denmark 
-
-### **Global Health Symposium**
-- **Title:** *Statistical Approaches to TB Epidemiology*  
-- **Date:** January 20, 2025  
-- **Location:** Online  
-- 📄 [Slides](link-to-slides)
-
+- **Location:** Copenhagen, Denmark
+  
 ---
 
 ## 2024
 
-### **American Public Health Association Annual Meeting**
-- **Title:** *Integrating Genomic and Epidemiologic Data for Infectious Disease Control*  
-- **Date:** November 5, 2024  
-- **Location:** Washington, D.C., USA  
-- 📄 [Slides](link-to-slides) | 📝 [Abstract](link-to-abstract)
-
-### **Society for Epidemiologic Research (SER) Conference**
-- **Title:** *Network Analysis in TB Transmission Studies*  
-- **Date:** June 12, 2024  
-- **Location:** Chicago, IL, USA  
-- 📄 [Poster PDF](link-to-poster)
+### **ENAR 2024 Spring Meeting**
+- **Title:** *Leveraging Active Case Finding Data to Identify Persons with TB Who Delay Seeking Care*  
+- **Date:** March 2024  
+- **Location:** Baltimore, Maryland
 
 ---
 
@@ -63,9 +50,6 @@ Here’s a curated list of talks and presentations I’ve given at conferences a
 
 
 Oral 
-Malatesta, S, Niemand N, Kulkarni S, Marin M, Mann B, Ghatti S, Horsburgh CR, Carney T, Warren RM, Farhat M, White LF, Jacobson KR. Smoked drug use drives tuberculosis transmission dynamics in a rural community in the Western Cape, South Africa. The Union World Conference on Lung Health. Copenhagen, Denmark. November 2025. Upcoming.
-
-Malatesta S, Jacobson KR, White LF. Leveraging Active Case Finding Data to Identify Persons with TB Who Delay Seeking Care. ENAR 2024 Spring Meeting. Baltimore, Maryland. March 2024.
 
 Malatesta S, Carney T, Niemand N, Theron D, Ratangee F, Meade C, Overbeck V, Weber SE, Horsburgh CR, White LF, Warren RM, Jacobson KR. TB disease burden among people who smoke illicit drugs: a respondent-driven sample, Western Cape, South Africa. The Union World Conference on Lung Health. Paris, France. November 2023.
 Malatesta S, Carney T, Overbeck V, Theron D, Bouton TC, Niemand N, Weber SE, Horsburgh CR, White LF, Warren RM, Jacobson KR. Benefits of diagnosing subclinical TB disease among people who smoke drugs. The Union World Conference on Lung Health. Paris, France. November 2023.
