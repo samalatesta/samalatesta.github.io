@@ -15,14 +15,15 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
   
 ## 🌍 Sharing Research Across the Globe
 
-<div id="talks-map" style="height: 600px;"></div>
+<div id="talks-map" style="height: 400px;"></div>
 
 <!-- Leaflet CSS & JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 <script>
-  var map = L.map('talks-map');
+  var map = L.map('talks-map').setView([20, 0], 2); // [lat, lon], zoom level
+
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; OpenStreetMap &copy; CARTO',
       subdomains: 'abcd',
