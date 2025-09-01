@@ -22,17 +22,13 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 <script>
-  // Initialize map (initial center/zoom will be overridden by fitBounds)
   var map = L.map('talks-map');
-
-  // Add a clean, subtle tile layer (Carto Light)
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; OpenStreetMap &copy; CARTO',
       subdomains: 'abcd',
       maxZoom: 19
   }).addTo(map);
 
-  // List of talks with coordinates, conference title, and date
   var talks = [
     { lat: 42.3601, lon: -71.0589, conference: "International Conference on Infectious Disease Modeling", date: "March 15, 2025" },
     { lat: 38.9072, lon: -77.0369, conference: "APHA Annual Meeting", date: "November 5, 2024" },
@@ -40,10 +36,12 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
     { lat: 41.8781, lon: -87.6298, conference: "SER Conference", date: "June 12, 2024" }
   ];
 
-  // Create a LatLngBounds object to track all markers
   var bounds = L.latLngBounds();
-
-  // Add markers and popups
   talks.forEach(function(talk) {
     var marker = L.marker([talk.lat, talk.lon]).addTo(map)
-                  .bindPopup(`<b>${talk
+                  .bindPopup(`<b>${talk.conference}</b><br>${talk.date}`);
+    bounds.extend(marker.getLatLng());
+  });
+  map.fitBounds(bounds, { padding: [50, 50] });
+</script>
+
