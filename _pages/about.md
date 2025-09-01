@@ -34,9 +34,9 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
     { lat: 48.864716, lon: 2.349014, conference: "The Union World Conference on Lung Health", date: "November 2023" },
     { lat: 55.6761, lon: 12.5683, conference: "The Union World Conference on Lung Health", date: "November 2025" },
     { lat: -33.9221, lon: 18.4231, conference: "Stellenbosch University", date: "July 2022" },
-    { lat: 33.7490, lon: -84.3880°, conference: "MIDAS Network Annual Meeting", date: "July 2022" },
-    { lat: 33.9221, lon: 18.4231, conference: "ENAR Spring Meeting", date: "July 2022" },
-    { lat: 33.9221, lon: 18.4231, conference: "The Union North America Region", date: "July 2022" }
+    { lat: 33.7490, lon: -84.3880, conference: "MIDAS Network Annual Meeting", date: "July 2022" },
+    { lat: 33.9221, lon: 18.4231, conference: "ENAR Spring Meeting", date: "March 2024" },
+    { lat: 33.9221, lon: 18.4231, conference: "The Union North America Region", date: "February 2023" }
   ];
   
   var bounds = L.latLngBounds();
