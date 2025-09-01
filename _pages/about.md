@@ -15,6 +15,6 @@ My research sits at the intersection of statistical methods, infectious diseases
 
 My current work focuses on applying diverse modeling techniques to study TB transmission and developing statistical methods that integrate pathogen whole-genome sequencing with individual-level clinical data.
 
-**Interests** 
+**Research Interests** 
 
 statistical methods | data integration | infectious diseases | transmission modeling | tuberculosis
