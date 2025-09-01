@@ -10,7 +10,7 @@ I am a Postdoctoral Research Fellow in the Boston University Clinical HIV/AIDS R
 ## Research Interests  
 My research sits at the intersection of **biostatistics**, **infectious disease epidemiology**, and **global health**. I am particularly interested in:  
 - Developing **statistical methods** for **integrating diverse data sources**, including genomic, clinical, and surveillance data.  
-- Applying **modeling techniques** such as phylodynamics and transmission models to understand the spread of infectious diseases.  
+- Applying **modeling techniques** such as phylodynamics and mathematical models to understand the spread of infectious diseases.  
 - Using these methods to study **tuberculosis** and other pathogens, with the goal of informing prevention and control strategies.
   
 ## 🌍 Sharing Research Across the Globe
