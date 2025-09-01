@@ -8,4 +8,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Research Fellow in Biostatistics, specializing in the development of statistical methods for infectious disease and global health research. My work bridges methodological innovation and applied data analysis, with a focus on creating tools that address pressing public health challenges.
+
+I am a Postdoctoral Research Fellow in the Boston University Clinical HIV/AIDS Research Training Program at Boston Medical Center. I earned my PhD in Biostatistics from Boston University, where my doctoral work focused on developing statistical methods to better understand tuberculosis (TB) disease dynamics among key populations.
+
+My research sits at the intersection of statistical methods, infectious diseases, and global health, bridging methodological innovation with applied data analysis. I develop new tools and modeling approaches to answer pressing public health questions while ensuring accessibility through open-source software.
