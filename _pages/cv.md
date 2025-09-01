@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download full CV with complete list of publications. 
+CV with complete list of publications (last updated August 2025). 
 
 Education
 ======
