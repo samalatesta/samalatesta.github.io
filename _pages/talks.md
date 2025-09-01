@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Here’s a curated list of talks and presentations I’ve given at conferences and seminars.  
+Here’s a curated list of invited talks and conference presentations I’ve given. 
 
 ---
 
