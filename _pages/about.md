@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
 I am a Postdoctoral Research Fellow in the Boston University Clinical HIV/AIDS Research Training Program at Boston Medical Center. I earned my PhD in Biostatistics from Boston University, where my doctoral work focused on developing statistical methods to better understand tuberculosis (TB) disease dynamics among key populations. My current work focuses on developing and applying diverse modeling techniques to study TB transmission.
 ## Research Interests  
 My research sits at the intersection of **biostatistics**, **infectious disease epidemiology**, and **global health**. I am particularly interested in:  
@@ -28,11 +27,10 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
       attribution: '&copy; OpenStreetMap &copy; CARTO',
       subdomains: 'abcd',
       maxZoom: 19
-  }).addTo(map);
 
   var talks = [
     { lat: 55.6761, lon: -12.5683, conference: "The Union World Conference on Lung Health", date: "November 2025" },
-    { lat: 38.9072, lon: -77.0369, conference: "APHA Annual Meeting", date: "November 5, 2024" },
+    { lat: 48.8575, lon: -2.3514, conference: "The Union World Conference on Lung Health", date: "November 2023" },
     { lat: 51.5074, lon: -0.1278, conference: "International Biostatistics Workshop", date: "September 8, 2023" },
     { lat: 41.8781, lon: -87.6298, conference: "SER Conference", date: "June 12, 2024" }
   ];
