@@ -16,7 +16,8 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
 I am particularly interested in:  
 - Developing **statistical methods** for **integrating diverse data sources**, including genomic, clinical, and surveillance data.  
 - Applying **modeling techniques** such as phylodynamics and transmission models to understand the spread of infectious diseases.  
-- Using these methods to study **tuberculosis**, with the goal of informing prevention and control strategies.  
+- Using these methods to study **tuberculosis**, with the goal of informing prevention and control strategies.
+  
 ---
 ## 🌍 Sharing Research Across the Globe
 
