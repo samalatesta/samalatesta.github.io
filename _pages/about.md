@@ -36,7 +36,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
     { lat: -33.9221, lon: 18.4231, conference: "Stellenbosch University", date: "July 2022" },
     { lat: 33.7490, lon: -84.3880, conference: "MIDAS Network Annual Meeting", date: "July 2022" },
     { lat: 39.29, lon: -76.61, conference: "ENAR Spring Meeting", date: "March 2024" },
-    { lat: 33.9221, lon: 18.4231, conference: "The Union North America Region", date: "February 2023" }
+    { lat: 49.15, lon: -123.06, conference: "The Union North America Region", date: "February 2023" }
   ];
   
   var bounds = L.latLngBounds();
