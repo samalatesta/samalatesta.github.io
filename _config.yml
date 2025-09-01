@@ -22,7 +22,7 @@ repository               : "samalatesta/samalatesta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Samantha A. Malatesta"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Research Fellow; biostatistics; infectious diseases; tuberculosis"
