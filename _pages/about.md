@@ -22,14 +22,13 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 <script>
-  // Initialize map centered on the world, zoomed all the way out
-  var map = L.map('talks-map').setView([20, 0], 1); // zoom 1 = fully zoomed out
+  // Initialize map (initial center/zoom will be overridden by fitBounds)
+  var map = L.map('talks-map');
 
   // Add a clean, subtle tile layer (Carto Light)
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; OpenStreetMap &copy; CARTO',
       subdomains: 'abcd',
-      minZoom: 1,
       maxZoom: 19
   }).addTo(map);
 
@@ -41,9 +40,10 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
     { lat: 41.8781, lon: -87.6298, conference: "SER Conference", date: "June 12, 2024" }
   ];
 
+  // Create a LatLngBounds object to track all markers
+  var bounds = L.latLngBounds();
+
   // Add markers and popups
   talks.forEach(function(talk) {
-    L.marker([talk.lat, talk.lon]).addTo(map)
-     .bindPopup(`<b>${talk.conference}</b><br>${talk.date}`);
-  });
-</script>
+    var marker = L.marker([talk.lat, talk.lon]).addTo(map)
+                  .bindPopup(`<b>${talk
