@@ -4,7 +4,13 @@ title: "Research & Software"
 permalink: /research/
 author_profile: true
 ---
-
+I am a Postdoctoral Research Fellow in the Boston University Clinical HIV/AIDS Research Training Program at Boston Medical Center. I earned my PhD in Biostatistics from Boston University, where my doctoral work focused on developing statistical methods to better understand tuberculosis (TB) disease dynamics among key populations. My current work focuses on developing and applying diverse modeling techniques to study TB transmission.
+## Research Interests  
+My research sits at the intersection of **biostatistics**, **infectious disease epidemiology**, and **global health**. I am particularly interested in:  
+- Developing **statistical methods** for **integrating diverse data sources**, including genomic, clinical, and surveillance data.  
+- Applying **modeling techniques** such as phylodynamics and mathematical models to understand the spread of infectious diseases.  
+- Using these methods to study **tuberculosis** and other pathogens, with the goal of informing prevention and control strategies.
+- 
 <p>My research focuses on understanding how infectious diseases spread and developing statistical methods to analyze complex data. I study <strong>tuberculosis (TB)</strong> and <strong>methicillin-resistant <i>Staphylococcus aureus</i> (MRSA)</strong> transmission, combining epidemiologic and genomic data to uncover patterns of spread.</p>
 
 <p>Much of my <strong>statistical methods</strong> work is done in collaboration with my thesis advisor, <strong>Laura White</strong>. Applied <strong>TB</strong> projects are conducted with <strong>Karen Jacobson's group</strong> at Boston Medical Center, and <strong>MRSA</strong> research is done with <strong>Ashlee Earl's group</strong> at the Broad Institute. Alongside these applied projects, I create statistical tools and open-source software to enable more accurate modeling, inference, and data sharing for infectious disease research. Below are selected projects and tools from these research areas.</p>
@@ -49,6 +55,10 @@ author_profile: true
     <p>Applying a machine learning method that integrates whole genome sequencing and metadata to explore TB transmission dynamics among people who smoke drugs in a rural community in South Africa.</p>
   </div>
 
+  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3>MRSA Transmission in Nursing Homes</h3>
+    <p>Studying the transmission of multidrug-resistant organisms (primarily MRSA) in nursing homes. Applying <strong>TransPhylo</strong> to identify transmission risk factors, evaluate decolonization strategies, and explore the impact of sampling in endemic settings.</p>
+  </div>
 </div>
 
 <!-- MRSA -->
