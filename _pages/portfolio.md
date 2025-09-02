@@ -44,8 +44,8 @@ epidemics. Our results inform best intervention strategies (active case finding,
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>TB tranmission and substance use</h3>
-    <p>Developed frameworks to combine genomic sequences and patient data for outbreak reconstruction.</p>
+    <h3>TB transmission and substance use</h3>
+    <p>We are applying a machine learning method that integrates whole genome sequencing and metadata to explore TB transmission dynamics among people who smoke drugs in a rural community in South Africa.</p>
   </div>
 
 </div>
