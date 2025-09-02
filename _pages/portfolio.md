@@ -53,6 +53,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>TB Transmission and Substance Use</h3>
     <p>Applying <a href="https://academic.oup.com/ije/article/49/3/764/5811379">mlTransEpi</a>, a machine learning method that integrates whole genome sequencing and metadata, to explore TB transmission dynamics among people who smoke drugs in a rural community in South Africa.</p>
+    <p><strong>Upcoming talk at the Union World Conference on Lung Health 2025</strong> </p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
