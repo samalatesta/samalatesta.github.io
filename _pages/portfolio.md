@@ -30,7 +30,7 @@ author_profile: true
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>Multiple Imputation & Time to Event Data</h3>
     <p>We explored different methods for handling missing data in repeated measures in the context of time-to-event outcomes. The work was motivated by the need to accurately assess time to culture conversion, a primary endpoint in TB clinical trials.</p>
-    <p><strong>Software:</strong> <a href="[#](https://github.com/samalatesta/imputeTBculture)">imputeTBculture</a> (R)</p>
+    <p><strong>Software:</strong> <a href="[https://github.com/samalatesta/imputeTBculture]">imputeTBculture</a> (R)</p>
     <p><a href="[#](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01782-8)">Publication</a></p>
   </div>
 
