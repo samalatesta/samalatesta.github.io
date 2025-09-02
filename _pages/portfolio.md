@@ -38,6 +38,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
     <h3>Multiple Imputation for Time-to-Event Data</h3>
     <p>Explored methods for handling missing data in repeated measures for time-to-event outcomes, motivated by the need to assess time to culture conversion in TB clinical trials.</p>
     <p><strong>Software:</strong> <a href="https://github.com/samalatesta/imputeTBculture">imputeTBculture</a></p>
+    <p><strong>Data Application:</strong> <a href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3396-y">TRUST study (a TB clinical cohort)</a></p>
     <p><a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01782-8">Publication</a></p>
   </div>
 
