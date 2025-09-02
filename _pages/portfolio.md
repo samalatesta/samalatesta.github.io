@@ -76,24 +76,14 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Prevalence Estimation & Risk Factors</h3>
-    <p>Used regression and time-to-event models to estimate TB prevalence and identify risk factors among high-risk populations.</p>
-    <p><strong>Software:</strong> <a href="#">epiTools</a> (R)</p>
+    <h3>Applied TB Projects</h3>
+    <p>Includes prevalence estimation, risk factor analysis, data management, and collaboration with field teams to translate epidemiologic findings into actionable TB control strategies.</p>
+    <p><strong>Software:</strong> <a href="#">epiTools</a> (R), <a href="#">TBdataTools</a> (Python), <a href="#">epiField</a> (R)</p>
+    <p><strong>Collaborators:</strong> Karen Jacobson's group, Boston Medical Center</p>
     <p><a href="#">Publication</a></p>
   </div>
 
-  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Data Management & Sharing</h3>
-    <p>Led large-scale TB studies with responsibility for data cleaning, management, and sharing across teams in South Africa.</p>
-    <p><strong>Software:</strong> <a href="#">TBdataTools</a> (Python)</p>
-    <p><a href="#">Publication</a></p>
-  </div>
+</div>
 
-  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Applied Field Epidemiology</h3>
-    <p>Worked closely with field teams and clinicians to translate epidemiologic findings into actionable TB control strategies.</p>
-    <p><strong>Software:</strong> <a href="#">epiField</a> (R)</p>
-    <p><a href="#">Publication</a></p>
-  </div>
 
 <
