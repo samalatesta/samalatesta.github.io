@@ -4,7 +4,7 @@ title: "Research & Software"
 permalink: /research/
 author_profile: true
 ---
-I earned my PhD in Biostatistics from Boston University, where I worked with </strong> <a href="https://www.bu.edu/sph/profile/laura-white/">Dr. Laura White</a> to develop statistical methods that advance tuberculosis (TB) epidemiology. My research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB disease dynamics among key populations. In addition, I collaborated with Dr. Karen Jacobson's group at Boston Medical Center on numerous applied TB projects. 
+I earned my PhD in Biostatistics from Boston University, where I worked with <a href="https://www.bu.edu/sph/profile/laura-white/">Dr. Laura White</a> to develop statistical methods that advance tuberculosis (TB) epidemiology. My research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB disease dynamics among key populations. In addition, I worked with <a href="https://sites.bu.edu/jacobson/">Dr. Karen Jacobson</a> at Boston Medical Center and her collaborators on numerous applied TB projects using data from two prospective studies in South Africa. 
 
 Currently, I am a Postdoctoral Research Fellow in the Boston University Clinical HIV/AIDS Research Training Program at Boston Medical Center. In collaboration with Karen Jacobson’s group at BMC, I study TB transmission using a range of modeling approaches—including phylodynamics and mathematical models—to investigate how pathogens spread and how interventions can shape epidemics.
 
