@@ -13,7 +13,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
 - Applying **modeling techniques** such as phylodynamics and mathematical models to understand the spread of infectious diseases.  
 - Using these methods to study **tuberculosis** and other pathogens, with the goal of informing prevention and control strategies.
   
-## Sharing Research Across the Globe
+## Conferences and Collaborations
 
 <div id="talks-map" style="height: 400px;"></div>
 
