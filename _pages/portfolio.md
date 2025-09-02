@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Across these projects, I collaborate closely with clinical and epidemiologic experts to ensure the methods I develop are directly applicable to pressing public health challenges.
+I develop statistical methods and modeling approaches motivated by real-world data applications. I collaborate closely with clinical and epidemiologic experts to ensure the methods I create are directly applicable to pressing public health challenges. In addition, I develop software to make these methods accessible to the research community. 
 
 I earned my PhD in Biostatistics from Boston University, where I worked with [Dr. Laura White](https://www.bu.edu/sph/profile/laura-white/) to develop statistical methods that advance tuberculosis (TB) epidemiology. My research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB disease dynamics, particularly among high-risk populations. Additionally, I collaborated with [Dr. Karen Jacobson](https://sites.bu.edu/jacobson/) at Boston Medical Center and her team on several applied TB projects, utilizing data from two prospective studies in South Africa.
 
