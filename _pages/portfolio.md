@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 <h1>Research & Software</h1>
-<p>My research focuses on understanding how infectious diseases spread and developing statistical methods to analyze complex data. I study tuberculosis (TB) and methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) transmission, combining epidemiologic and genomic data to uncover patterns of spread. Alongside these applied projects, I create statistical tools and open-source software that enable more accurate modeling, inference, and data sharing for infectious disease research. Explore selected projects and software below.</p>
+<p>My research focuses on understanding how infectious diseases spread and developing statistical methods to analyze complex data. I study <strong>tuberculosis (TB)</strong> and <strong>methicillin-resistant <i>Staphylococcus aureus</i> (MRSA)</strong> transmission, combining epidemiologic and genomic data to uncover patterns of spread. Much of the <strong>methods</strong> work is done in collaboration with my thesis advisor, <strong>Laura White</strong>; applied <strong>TB</strong> projects are conducted with <strong>Karen Jacobson's group</strong> at Boston Medical Center; and <strong>MRSA</strong> research is done with <strong>Ashlee Earl's group</strong> at the Broad Institute. Alongside these applied projects, I create statistical tools and open-source software that enable more accurate modeling, inference, and data sharing for infectious disease research. Explore selected projects and software below.</p>
+
 
 <!-- TB Transmission -->
 <h2>Tuberculosis Transmission</h2>
