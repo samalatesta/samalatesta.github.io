@@ -12,20 +12,20 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Data-driven TB Disease Phenotypes</h3>
+    <h3>Data-driven TB disease phenotypes</h3>
     <p>TB-STATIS: a model that integrates clinical information (symptoms, smear, cxr) to generate TB disease phenotypes and perform patient stratification.</p>
     <p><strong>Software:</strong> <a href="https://github.com/samalatesta/tbSTATIS">tbSTATIS</a> </p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Inferring Associates with Respondent-Driven Sampling Data</h3>
+    <h3>Inferring associations with respondent-driven sampling data</h3>
     <p>Developed a semi-parametric randomization test to infer associations that accounts for the correlated nature of respondent-driven sampling data.</p>
     <p><strong>Software:</strong> <a href="https://github.com/samalatesta/RDSAssociation">RDSAssociation</a> </p>
     <p><a href="https://academic.oup.com/jrsssc/article-abstract/74/2/429/7909014">Publication</a></p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Multiple Imputation & Time to Event Data</h3>
+    <h3>Multiple imputation & time to event data</h3>
     <p>Explored different methods for handling missing data in repeated measures in the context of time-to-event outcomes. The work was motivated by the need to accurately assess time to culture conversion, a primary endpoint in TB clinical trials.</p>
     <p><strong>Software:</strong> <a href="https://github.com/samalatesta/imputeTBculture">imputeTBculture</a> </p>
     <p><a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01782-8">Publication</a></p>
