@@ -68,10 +68,9 @@ epidemics. Our results inform best intervention strategies (active case finding,
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Applied TB Projects</h3>
-    <p>Includes prevalence estimation, risk factor analysis, data management, and collaboration with field teams to translate epidemiologic findings into actionable TB control strategies.</p>
-    <p><strong>Collaborators:</strong> Karen Jacobson's group, Boston Medical Center</p>
-    <p><a href="#">Publication</a></p>
+    <h3>TB prevalence among people who smoke drugs</h3>
+    <p>We recruited 750 people who smoke drugs in a rural community in South Africa. We estimated TB prevalence is ~10% in this population which is ~3 times community rates.</p>
+    <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5010346">Publication</a></p>
   </div>
 
 </div>
