@@ -23,6 +23,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
     <h3>Data-Driven TB Disease Phenotypes</h3>
     <p>Developed <strong>TB-STATIS</strong>, a model that integrates clinical information (symptoms, smear, chest X-ray) to generate TB disease phenotypes and stratify patients.</p>
     <p><strong>Software:</strong> <a href="https://github.com/samalatesta/tbSTATIS">tbSTATIS</a></p>
+    <p><strong>Data Application:</strong> <a href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3396-y">TRUST study (a TB clinical cohort)</a> and the <a href="https://www.tballiance.org/trial/remoxtb/">REMox trial</a></p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
