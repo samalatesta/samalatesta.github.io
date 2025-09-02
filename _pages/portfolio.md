@@ -31,6 +31,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
     <p>Developed a semi-parametric randomization test that accounts for the correlated nature of respondent-driven sampling data to accurately infer associations.</p>
     <p><strong>Software:</strong> <a href="https://github.com/samalatesta/RDSAssociation">RDSAssociation</a></p>
     <p><a href="https://academic.oup.com/jrsssc/article-abstract/74/2/429/7909014">Publication</a></p>
+    <p><strong>Data Application:</strong> <a href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3396-y">TRUST study (a TB clinical cohort)</a></p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
