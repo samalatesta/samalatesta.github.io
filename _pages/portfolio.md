@@ -30,8 +30,8 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
     <h3>Inferring Associations with Respondent-Driven Sampling Data</h3>
     <p>Developed a semi-parametric randomization test that accounts for the correlated nature of respondent-driven sampling data to accurately infer associations.</p>
     <p><strong>Software:</strong> <a href="https://github.com/samalatesta/RDSAssociation">RDSAssociation</a></p>
-    <p><a href="https://academic.oup.com/jrsssc/article-abstract/74/2/429/7909014">Publication</a></p>
     <p><strong>Data Application:</strong> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262440">TOTAL study</a></p>
+    <p><a href="https://academic.oup.com/jrsssc/article-abstract/74/2/429/7909014">Publication</a></p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
