@@ -4,7 +4,7 @@ title: "Research & Software"
 permalink: /research/
 author_profile: true
 ---
-<h1>Research & Software</h1>
+
 <p>My research focuses on understanding how infectious diseases spread and developing statistical methods to analyze complex data. I study <strong>tuberculosis (TB)</strong> and <strong>methicillin-resistant <i>Staphylococcus aureus</i> (MRSA)</strong> transmission, combining epidemiologic and genomic data to uncover patterns of spread. Much of the <strong>methods</strong> work is done in collaboration with my thesis advisor, <strong>Laura White</strong>; applied <strong>TB</strong> projects are conducted with <strong>Karen Jacobson's group</strong> at Boston Medical Center; and <strong>MRSA</strong> research is done with <strong>Ashlee Earl's group</strong> at the Broad Institute. Alongside these applied projects, I create statistical tools and open-source software that enable more accurate modeling, inference, and data sharing for infectious disease research. Explore selected projects and software below.</p>
 
 <!-- Statistical Methods -->
@@ -39,7 +39,7 @@ author_profile: true
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>Role of reinfection in sustaining TB transmission</h3>
-    <p> We developed a population-level mathematical model to quantify the role of reinfection in sustaining TB
+    <p> We are developing a population-level mathematical model to quantify the role of reinfection in sustaining TB
 epidemics. Our results inform best intervention strategies (active case finding, vaccination, preventive therapy, etc) across high- and low-burden settings.</p>
   </div>
 
@@ -56,9 +56,7 @@ epidemics. Our results inform best intervention strategies (active case finding,
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>Healthcare-Associated MRSA</h3>
-    <p>Studied MRSA spread in hospital and community settings using genomic and epidemiologic data.</p>
-    <p><strong>Collaborators:</strong> Ashlee Earl's group, Broad Institute</p>
-    <p><a href="#">Publication</a></p>
+    <p>Studying the transmission of multidrug-resistant organisms (primarily MRSA) in nursing homes. Using TransPhylo to identify transmission risk factors, evaluate decolonization strategies, and explore the impact of sampling in endemic settings.</p>
   </div>
 
 </div>
@@ -69,7 +67,7 @@ epidemics. Our results inform best intervention strategies (active case finding,
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>TB prevalence among people who smoke drugs</h3>
-    <p>We recruited 750 people who smoke drugs in a rural community in South Africa. We estimated TB prevalence is ~10% in this population which is ~3 times community rates.</p>
+    <p>We recruited 750 people who smoke drugs using respondent-driven sampling in a rural community in South Africa. We estimated TB prevalence is ~10% in this population which is ~3 times community rates.</p>
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5010346">Publication</a></p>
   </div>
 
