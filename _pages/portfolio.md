@@ -68,7 +68,7 @@ author_profile: true
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>TB Prevalence Among People Who Smoke Drugs</h3>
-    <p>Recruited 750 people who smoke drugs using respondent-driven sampling in a rural South African community. Estimated TB prevalence (~10%) was three times higher than community rates.</p>
+    <p>Estimated TB and HIV prevalence among people who smoke drugs in a rural community in South Africa using a respondent-driven sample of 750 participants. TB prevalence was ~10% which was three times higher than community rates.</p>
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5010346">Publication</a></p>
   </div>
 
