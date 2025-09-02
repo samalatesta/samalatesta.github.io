@@ -57,7 +57,7 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>MRSA Transmission in Nursing Homes</h3>
-    <p>Studying the transmission of multidrug-resistant organisms (primarily MRSA) in nursing homes. Applying <strong>TransPhylo</strong> to identify transmission risk factors, evaluate decolonization strategies, and explore the impact of sampling in endemic settings.</p>
+    <p>Studying the transmission of multidrug-resistant organisms (primarily MRSA) in nursing homes. Applying <a href="https://academic.oup.com/mbe/article/42/4/msaf083/8116767">TransPhylo2</a> to identify transmission risk factors, evaluate decolonization strategies, and explore the impact of sampling in endemic settings.</p>
   </div>
 </div>
 
