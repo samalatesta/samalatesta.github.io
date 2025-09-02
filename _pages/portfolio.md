@@ -4,36 +4,81 @@ title: "Research & Software"
 permalink: /research/
 author_profile: true
 ---
-
 <h1>Research & Software</h1>
 <p>My research focuses on understanding how infectious diseases spread and developing statistical methods to analyze complex data. I study <strong>tuberculosis (TB)</strong> and <strong>methicillin-resistant <i>Staphylococcus aureus</i> (MRSA)</strong> transmission, combining epidemiologic and genomic data to uncover patterns of spread. Much of the <strong>methods</strong> work is done in collaboration with my thesis advisor, <strong>Laura White</strong>; applied <strong>TB</strong> projects are conducted with <strong>Karen Jacobson's group</strong> at Boston Medical Center; and <strong>MRSA</strong> research is done with <strong>Ashlee Earl's group</strong> at the Broad Institute. Alongside these applied projects, I create statistical tools and open-source software that enable more accurate modeling, inference, and data sharing for infectious disease research. Explore selected projects and software below.</p>
 
-<!-- Container style -->
+<!-- Container and card styling -->
 <style>
+  body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+
   .card-container {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     align-items: stretch; /* Equal height for cards in a row */
   }
+
   .card {
     flex: 1 1 300px;
-    border: 1px solid #ddd;
+    border: 1px solid;
     border-radius: 12px;
     padding: 15px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     display: flex;
     flex-direction: column;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    background-color: #fff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.3s ease, color 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
+
   .card p:last-child {
     margin-top: auto; /* Push publication link to bottom */
   }
+
   /* Hover effect */
   .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 15px rgba(0,0,0,0.15);
+  }
+
+  /* Light mode (default) */
+  @media (prefers-color-scheme: light) {
+    body {
+      background-color: #fafafa;
+      color: #111;
+    }
+    .card {
+      background-color: #fff;
+      color: #111;
+      border-color: #ddd;
+    }
+    .card a {
+      color: #1a0dab;
+    }
+    .card:hover {
+      box-shadow: 0 8px 15px rgba(0,0,0,0.15);
+    }
+  }
+
+  /* Dark mode */
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #121212;
+      color: #eee;
+    }
+    .card {
+      background-color: #1e1e1e;
+      color: #eee;
+      border-color: #444;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.6);
+    }
+    .card a {
+      color: #4ea1ff;
+    }
+    .card:hover {
+      box-shadow: 0 8px 15px rgba(0,0,0,0.8);
+    }
   }
 </style>
 
@@ -96,32 +141,4 @@ author_profile: true
 <div class="card-container" id="other-tb">
   <div class="card">
     <h3>Applied TB Projects</h3>
-    <p>Includes prevalence estimation, risk factor analysis, data management, and collaboration with field teams to translate epidemiologic findings into actionable TB control strategies.</p>
-    <p><strong>Collaborators:</strong> Karen Jacobson's group, Boston Medical Center</p>
-    <p><a href="#">Publication</a></p>
-  </div>
-</div>
-
-<!-- JavaScript to equalize heights within each container -->
-<script>
-  function equalizeCardHeights(containerId) {
-    const container = document.getElementById(containerId);
-    if (!container) return;
-    const cards = Array.from(container.getElementsByClassName('card'));
-    let maxHeight = 0;
-    cards.forEach(card => {
-      card.style.height = 'auto'; // reset
-      maxHeight = Math.max(maxHeight, card.offsetHeight);
-    });
-    cards.forEach(card => {
-      card.style.height = maxHeight + 'px';
-    });
-  }
-
-  ['stat-methods','tb-transmission','mrsa','other-tb'].forEach(id => equalizeCardHeights(id));
-
-  window.addEventListener('resize', () => {
-    ['stat-methods','tb-transmission','mrsa','other-tb'].forEach(id => equalizeCardHeights(id));
-  });
-</script>
-
+    <p>
