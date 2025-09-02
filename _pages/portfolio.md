@@ -29,9 +29,8 @@ author_profile: true
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>Multiple Imputation & Survival Models</h3>
-    <p>Developed methods to address missing data and applied time-to-event models in infectious disease studies.</p>
-    <p><strong>Software:</strong> <a href="#">survTools</a> (R)</p>
-    <p><strong>Collaborators:</strong> Laura White</p>
+    <p>Different methods for handling missing data in repeated measures are explored in the context of time-to-event outcomes. The work was motivated by the need to accurately assess time to culture conversion, a primary endpoint in tuberculosis clinical trials.</p>
+    <p><strong>Software:</strong> <a href="[#](https://github.com/samalatesta/imputeTBculture)">imputeTBculture</a> (R)</p>
     <p><a href="#">Publication</a></p>
   </div>
 
