@@ -4,16 +4,12 @@ title: "Research & Software"
 permalink: /research/
 author_profile: true
 ---
-I earned my PhD in Biostatistics from Boston University, where I worked with <a href="https://www.bu.edu/sph/profile/laura-white/">Dr. Laura White</a> to develop statistical methods that advance tuberculosis (TB) epidemiology. My research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB disease dynamics among key populations. In addition, I worked with <a href="https://sites.bu.edu/jacobson/">Dr. Karen Jacobson</a> at Boston Medical Center and her collaborators on numerous applied TB projects using data from two prospective studies in South Africa. 
 
-My postdoctoral work has expanded into the study infectious disease transmission using a range of modeling approaches—including **phylodynamics, mathematical models, and machine learning**—to investigate how pathogens spread and how interventions can shape epidemics. 
+Across these projects, I collaborate closely with clinical and epidemiologic experts to ensure the methods I develop are directly applicable to pressing public health challenges.
 
-I also work with Ashlee Earl’s group at the Broad Institute to study the transmission of methicillin-resistant Staphylococcus aureus (MRSA) in healthcare settings. Across these projects, I focus on combining statistical innovation with applied epidemiology to address pressing questions in infectious disease research.
-Currently, I am a Postdoctoral Research Fellow in the Boston University Clinical HIV/AIDS Research Training Program at Boston Medical Center. My postdoctoral work expands into studying infectious disease transmission more broadly, with a particular focus on TB. I develop and apply modeling approaches—including phylodynamics and mathematical models—to investigate how pathogens spread and how interventions can shape epidemics.
+I earned my PhD in Biostatistics from Boston University, where I worked with [Dr. Laura White](https://www.bu.edu/sph/profile/laura-white/) to develop statistical methods that advance tuberculosis (TB) epidemiology. My research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB disease dynamics, particularly among high-risk populations. Additionally, I collaborated with [Dr. Karen Jacobson](https://sites.bu.edu/jacobson/) at Boston Medical Center and her team on several applied TB projects, utilizing data from two prospective studies in South Africa.
 
-I also collaborate with the Broad Institute, where I study methicillin-resistant Staphylococcus aureus (MRSA) transmission in healthcare settings. Across these projects, I work closely with clinical and epidemiologic collaborators to ensure that the methods I develop are directly applicable to pressing public health questions.
-
-https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics
+My postdoctoral work has expanded to studying infectious disease transmission through various modeling approaches—including **phylodynamics**, **mathematical modeling**, and **machine learning**. These methods help investigate how pathogens spread and how interventions influence epidemic outcomes. I continue to collaborate with Dr. White and Dr. Jacobson on TB transmission projects. In addition I am collaborating with [Dr. Ashlee Earl](https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics), Director of the Bacterial Genomics Group at the Broad Institute, on studying methicillin-resistant *Staphylococcus aureus* (MRSA) transmission in nursing homes. I am applying phylodynamic models to infer transmission patterns from whole genome sequencing data, while also gaining training in bacterial evolution and bioinformatics.
 
 <strong>Funding:</strong> My postdoctoral work is funded by National Institute of Allergy and Infectious Diseases grant T32AI052074. 
 
