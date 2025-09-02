@@ -4,16 +4,13 @@ title: "Research & Software"
 permalink: /research/
 author_profile: true
 ---
-I am a Postdoctoral Research Fellow in the Boston University Clinical HIV/AIDS Research Training Program at Boston Medical Center. I earned my PhD in Biostatistics from Boston University, where my doctoral work focused on developing statistical methods to better understand tuberculosis (TB) disease dynamics among key populations. My current work focuses on developing and applying diverse modeling techniques to study TB transmission.
-## Research Interests  
-My research sits at the intersection of **biostatistics**, **infectious disease epidemiology**, and **global health**. I am particularly interested in:  
-- Developing **statistical methods** for **integrating diverse data sources**, including genomic, clinical, and surveillance data.  
-- Applying **modeling techniques** such as phylodynamics and mathematical models to understand the spread of infectious diseases.  
-- Using these methods to study **tuberculosis** and other pathogens, with the goal of informing prevention and control strategies.
-- 
-<p>My research focuses on understanding how infectious diseases spread and developing statistical methods to analyze complex data. I study <strong>tuberculosis (TB)</strong> and <strong>methicillin-resistant <i>Staphylococcus aureus</i> (MRSA)</strong> transmission, combining epidemiologic and genomic data to uncover patterns of spread.</p>
+I earned my PhD in Biostatistics from Boston University, where I worked with Laura White to develop statistical methods that advance tuberculosis (TB) epidemiology. My doctoral research focused on integrating complex data sources and addressing methodological challenges to better understand TB disease dynamics among key populations.
 
-<p>Much of my <strong>statistical methods</strong> work is done in collaboration with my thesis advisor, <strong>Laura White</strong>. Applied <strong>TB</strong> projects are conducted with <strong>Karen Jacobson's group</strong> at Boston Medical Center, and <strong>MRSA</strong> research is done with <strong>Ashlee Earl's group</strong> at the Broad Institute. Alongside these applied projects, I create statistical tools and open-source software to enable more accurate modeling, inference, and data sharing for infectious disease research. Below are selected projects and tools from these research areas.</p>
+Currently, I am a Postdoctoral Research Fellow in the Boston University Clinical HIV/AIDS Research Training Program at Boston Medical Center. In collaboration with Karen Jacobson’s group at BMC, I study TB transmission using a range of modeling approaches—including phylodynamics and mathematical models—to investigate how pathogens spread and how interventions can shape epidemics.
+
+I also work with Ashlee Earl’s group at the Broad Institute to study the transmission of methicillin-resistant Staphylococcus aureus (MRSA) in healthcare settings. Across these projects, I focus on combining statistical innovation with applied epidemiology to address pressing questions in infectious disease research.
+
+Alongside these collaborations, I develop statistical tools and open-source software that enable more accurate modeling, inference, and data sharing for the broader infectious disease research community.
 
 <!-- Statistical Methods -->
 <h2>Statistical Methods</h2>
