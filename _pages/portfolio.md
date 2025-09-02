@@ -57,18 +57,18 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>MRSA Transmission in Nursing Homes</h3>
-    <p>Studying the transmission of multidrug-resistant organisms (primarily MRSA) in nursing homes. Applying <a href="https://academic.oup.com/mbe/article/42/4/msaf083/8116767">TransPhylo2</a> to identify transmission risk factors, evaluate decolonization strategies, and explore the impact of sampling in endemic settings.</p>
+    <p>Studying the transmission of multidrug-resistant organisms (primarily MRSA) in nursing homes in Orange County, California. Applying <a href="https://academic.oup.com/mbe/article/42/4/msaf083/8116767">TransPhylo2</a> to identify transmission risk factors, evaluate decolonization strategies, and explore the impact of sampling in endemic settings.</p>
   </div>
 </div>
 
 
 <!-- Other Applied TB -->
-<h2>Other Applied TB Projects</h2>
+<h2>Other Projects</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>TB Prevalence Among People Who Smoke Drugs</h3>
-    <p>Estimated TB and HIV prevalence among people who smoke drugs in a rural community in South Africa using a respondent-driven sample of 750 participants. TB prevalence was ~10% which was three times higher than community rates.</p>
+    <h3>TB Prevalence Among People Who Smoke Drugs</h3> 
+    <p>Estimated TB and HIV prevalence among people who smoke drugs in a rural community in South Africa using a <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262440">respondent-driven sample</a> of 750 participants. TB prevalence was ~10% which was three times higher than community rates.</p>
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5010346">Publication</a></p>
   </div>
 
