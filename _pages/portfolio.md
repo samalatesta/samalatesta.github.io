@@ -8,47 +8,120 @@ author_profile: true
 <h1>Research & Software</h1>
 <p>My research focuses on understanding how infectious diseases spread and developing statistical methods to analyze complex data. I study <strong>tuberculosis (TB)</strong> and <strong>methicillin-resistant <i>Staphylococcus aureus</i> (MRSA)</strong> transmission, combining epidemiologic and genomic data to uncover patterns of spread. Much of the <strong>methods</strong> work is done in collaboration with my thesis advisor, <strong>Laura White</strong>; applied <strong>TB</strong> projects are conducted with <strong>Karen Jacobson's group</strong> at Boston Medical Center; and <strong>MRSA</strong> research is done with <strong>Ashlee Earl's group</strong> at the Broad Institute. Alongside these applied projects, I create statistical tools and open-source software that enable more accurate modeling, inference, and data sharing for infectious disease research. Explore selected projects and software below.</p>
 
+<!-- Container style -->
+<style>
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: stretch; /* Equal height for cards in a row */
+  }
+  .card {
+    flex: 1 1 300px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    background-color: #fff;
+  }
+  .card p:last-child {
+    margin-top: auto; /* Push publication link to bottom */
+  }
+  /* Hover effect */
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.15);
+  }
+</style>
+
 <!-- Statistical Methods -->
 <h2>Statistical Methods</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+<div class="card-container" id="stat-methods">
+  <div class="card">
     <h3>Adaptive Phylodynamic Methods</h3>
     <p>Developed methods to estimate pathogen transmission dynamics from genomic data.</p>
     <p><strong>Software:</strong> <a href="#">TransPhylo</a> (R)</p>
     <p><strong>Collaborators:</strong> Laura White</p>
     <p><a href="#">Publication</a> | <a href="#">Preprint</a></p>
   </div>
-
-  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <div class="card">
     <h3>Estimating Reproductive Numbers</h3>
     <p>Designed statistical approaches to quantify disease spread from genomic and epidemiologic data.</p>
     <p><strong>Software:</strong> <a href="#">epiTools</a> (R)</p>
     <p><strong>Collaborators:</strong> Laura White</p>
     <p><a href="#">Publication</a></p>
   </div>
-
-  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <div class="card">
     <h3>Multiple Imputation & Survival Models</h3>
     <p>Developed methods to address missing data and applied time-to-event models in infectious disease studies.</p>
     <p><strong>Software:</strong> <a href="#">survTools</a> (R)</p>
     <p><strong>Collaborators:</strong> Laura White</p>
     <p><a href="#">Publication</a></p>
   </div>
-
 </div>
 
 <!-- TB Transmission -->
 <h2>Tuberculosis Transmission</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+<div class="card-container" id="tb-transmission">
+  <div class="card">
     <h3>Network Analysis of TB Transmission</h3>
     <p>Applied network-based statistical models to study TB spread in high-risk populations in South Africa.</p>
-    <p><strong>Software:</strong> <a href="#">TBnetworkTools</a> (Python), <a href="#">epiTools</a> (R)</p>
     <p><strong>Collaborators:</strong> Karen Jacobson's group, Boston Medical Center</p>
     <p><a href="#">Publication</a></p>
   </div>
+  <div class="card">
+    <h3>Integrating Genomic & Epidemiologic Data</h3>
+    <p>Developed frameworks to combine genomic sequences and patient data for outbreak reconstruction.</p>
+    <p><strong>Collaborators:</strong> Karen Jacobson's group, Boston Medical Center</p>
+    <p><a href="#">Publication</a></p>
+  </div>
+</div>
 
-  <div style="flex: 1 1 300p
+<!-- MRSA -->
+<h2>MRSA Transmission</h2>
+<div class="card-container" id="mrsa">
+  <div class="card">
+    <h3>Healthcare-Associated MRSA</h3>
+    <p>Studied MRSA spread in hospital and community settings using genomic and epidemiologic data.</p>
+    <p><strong>Collaborators:</strong> Ashlee Earl's group, Broad Institute</p>
+    <p><a href="#">Publication</a></p>
+  </div>
+</div>
+
+<!-- Other Applied TB -->
+<h2>Other Applied TB Projects</h2>
+<div class="card-container" id="other-tb">
+  <div class="card">
+    <h3>Applied TB Projects</h3>
+    <p>Includes prevalence estimation, risk factor analysis, data management, and collaboration with field teams to translate epidemiologic findings into actionable TB control strategies.</p>
+    <p><strong>Collaborators:</strong> Karen Jacobson's group, Boston Medical Center</p>
+    <p><a href="#">Publication</a></p>
+  </div>
+</div>
+
+<!-- JavaScript to equalize heights within each container -->
+<script>
+  function equalizeCardHeights(containerId) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    const cards = Array.from(container.getElementsByClassName('card'));
+    let maxHeight = 0;
+    cards.forEach(card => {
+      card.style.height = 'auto'; // reset
+      maxHeight = Math.max(maxHeight, card.offsetHeight);
+    });
+    cards.forEach(card => {
+      card.style.height = maxHeight + 'px';
+    });
+  }
+
+  ['stat-methods','tb-transmission','mrsa','other-tb'].forEach(id => equalizeCardHeights(id));
+
+  window.addEventListener('resize', () => {
+    ['stat-methods','tb-transmission','mrsa','other-tb'].forEach(id => equalizeCardHeights(id));
+  });
+</script>
 
