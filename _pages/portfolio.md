@@ -13,8 +13,8 @@ author_profile: true
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>Data-driven TB Disease Phenotypes</h3>
-    <p>TB-STATIS: a model that integrates clinical information (symptoms, smear, cxr) to generate disease phenotypes and perform patient stratification.</p>
-    <p><strong>Software:</strong> <a href="https://github.com/samalatesta/tbSTATIS">tbSTATIS</a> (R)</p>
+    <p>TB-STATIS: a model that integrates clinical information (symptoms, smear, cxr) to generate TB disease phenotypes and perform patient stratification.</p>
+    <p><strong>Software:</strong> <a href="https://github.com/samalatesta/tbSTATIS">tbSTATIS</a> </p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -34,21 +34,17 @@ author_profile: true
 </div>
 
 <!-- TB Transmission -->
-<h2>Tuberculosis Transmission</h2>
+<h2>TB Transmission</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Network Analysis of TB Transmission</h3>
+    <h3>Role of reinfection in sustaining TB transmission</h3>
     <p>Applied network-based statistical models to study TB spread in high-risk populations in South Africa.</p>
-    <p><strong>Collaborators:</strong> Karen Jacobson's group, Boston Medical Center</p>
-    <p><a href="#">Publication</a></p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Integrating Genomic & Epidemiologic Data</h3>
+    <h3>TB tranmission and substance use</h3>
     <p>Developed frameworks to combine genomic sequences and patient data for outbreak reconstruction.</p>
-    <p><strong>Collaborators:</strong> Karen Jacobson's group, Boston Medical Center</p>
-    <p><a href="#">Publication</a></p>
   </div>
 
 </div>
