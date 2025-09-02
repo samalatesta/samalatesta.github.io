@@ -39,7 +39,8 @@ author_profile: true
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>Role of reinfection in sustaining TB transmission</h3>
-    <p>Applied network-based statistical models to study TB spread in high-risk populations in South Africa.</p>
+    <p> We developed a population-level mathematical model to quantify the role of reinfection in sustaining TB
+epidemics. Our results inform best intervention strategies (active case finding, vaccination, preventive therapy, etc) across high- and low-burden settings.</p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
