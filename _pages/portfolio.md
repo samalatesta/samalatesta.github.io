@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <h1>Research & Software</h1>
-<p>I work at the intersection of infectious disease epidemiology and statistical methods, with a focus on tuberculosis (TB) and methicillin-resistant <i>Staphylococcus aureus</i> (MRSA). Below are highlights of my research areas and the software tools that support them.</p>
+<p>My research focuses on understanding how infectious diseases spread and developing statistical methods to analyze complex data. I study tuberculosis (TB) and methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) transmission, combining epidemiologic and genomic data to uncover patterns of spread. Alongside these applied projects, I create statistical tools and open-source software that enable more accurate modeling, inference, and data sharing for infectious disease research. Explore selected projects and software below.</p>
 
 <!-- TB Transmission -->
 <h2>Tuberculosis Transmission</h2>
@@ -62,9 +62,9 @@ author_profile: true
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Multiple Imputation & Missing Data</h3>
-    <p>Developed and applied methods to handle missing data in infectious disease datasets.</p>
-    <p><strong>Software:</strong> <a href="#">imputeID</a> (R)</p>
+    <h3>Multiple Imputation & Survival Models</h3>
+    <p>Developed methods to address missing data and applied time-to-event models in infectious disease studies.</p>
+    <p><strong>Software:</strong> <a href="#">survTools</a> (R)</p>
     <p><a href="#">Publication</a></p>
   </div>
 
@@ -82,10 +82,17 @@ author_profile: true
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Household Transmission Studies</h3>
-    <p>Analyzed household contact data to understand risk of TB infection and secondary transmission.</p>
-    <p><strong>Software:</strong> <a href="#">householdTB</a> (Python)</p>
+    <h3>Data Management & Sharing</h3>
+    <p>Led large-scale TB studies with responsibility for data cleaning, management, and sharing across teams in South Africa.</p>
+    <p><strong>Software:</strong> <a href="#">TBdataTools</a> (Python)</p>
     <p><a href="#">Publication</a></p>
   </div>
 
-  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12p
+  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3>Applied Field Epidemiology</h3>
+    <p>Worked closely with field teams and clinicians to translate epidemiologic findings into actionable TB control strategies.</p>
+    <p><strong>Software:</strong> <a href="#">epiField</a> (R)</p>
+    <p><a href="#">Publication</a></p>
+  </div>
+
+<
