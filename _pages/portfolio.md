@@ -12,11 +12,9 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>Adaptive Phylodynamic Methods</h3>
-    <p>Developed methods to estimate pathogen transmission dynamics from genomic data.</p>
-    <p><strong>Software:</strong> <a href="#">TransPhylo</a> (R)</p>
-    <p><strong>Collaborators:</strong> Laura White</p>
-    <p><a href="#">Publication</a> | <a href="#">Preprint</a></p>
+    <h3>Data-driven TB Disease Phenotypes</h3>
+    <p>TB-STATIS: a model that integrates clinical information (symptoms, smear, cxr) to generate disease phenotypes and perform patient stratification.</p>
+    <p><strong>Software:</strong> <a href="https://github.com/samalatesta/tbSTATIS">tbSTATIS</a> (R)</p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
