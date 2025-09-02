@@ -42,17 +42,17 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
 </div>
 
 <!-- TB Transmission -->
-<h2>TB Transmission</h2>
+<h2>Modeling Infectious Disease Transmission</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>Role of Reinfection in Sustaining TB Transmission</h3>
-    <p>Developing a population-level mathematical model to quantify the role of reinfection in sustaining TB epidemics. Results inform strategies such as active case finding, vaccination, and preventive therapy in high- and low-burden settings.</p>
+    <p>Developing a population-level mathematical model to quantify the role of reinfection in sustaining TB epidemics. Results inform best intervention strategies such as active case finding, vaccination, and preventive therapy in high- and low-burden settings.</p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>TB Transmission and Substance Use</h3>
-    <p>Applying a machine learning method that integrates whole genome sequencing and metadata to explore TB transmission dynamics among people who smoke drugs in a rural community in South Africa.</p>
+    <p>Applying <a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5010346](https://academic.oup.com/ije/article/49/3/764/5811379)">mlTransEpi</a>, a machine learning method that integrates whole genome sequencing and metadata, to explore TB transmission dynamics among people who smoke drugs in a rural community in South Africa.</p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -61,16 +61,6 @@ My research sits at the intersection of **biostatistics**, **infectious disease 
   </div>
 </div>
 
-<!-- MRSA -->
-<h2>MRSA Transmission</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3>MRSA Transmission in Nursing Homes</h3>
-    <p>Studying the transmission of multidrug-resistant organisms (primarily MRSA) in nursing homes. Applying <strong>TransPhylo</strong> to identify transmission risk factors, evaluate decolonization strategies, and explore the impact of sampling in endemic settings.</p>
-  </div>
-
-</div>
 
 <!-- Other Applied TB -->
 <h2>Other Applied TB Projects</h2>
