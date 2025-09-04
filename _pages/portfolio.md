@@ -20,11 +20,11 @@ As a **postdoctoral research fellow**, I study **infectious disease transmission
 My postdoctoral training is supported by the **National Institute of Allergy and Infectious Diseases** (T32AI052074).  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Boston_University_School_of_Public_Health_logo.svg/200px-Boston_University_School_of_Public_Health_logo.svg.png" alt="BU SPH" width="100"/>
+  <img src="../images/BOSTON_UNIV_CMYK.tif" alt="Boston University" width="100"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boston_Medical_Center_logo.svg/200px-Boston_Medical_Center_logo.svg.png" alt="Boston Medical Center" width="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="../images/download.png" alt="Broad Institute" width="100"/>
+  <img src="../images/broad.png" alt="Broad Institute" width="100"/>
 </p>
 
 
