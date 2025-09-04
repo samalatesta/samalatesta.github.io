@@ -5,32 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- About Section -->
-<div style="display: grid; gap: 20px; margin-bottom: 40px;">
+## About My Work  
+I am a **biostatistician and infectious disease researcher** focused on developing **statistical methods** and **modeling approaches** motivated by real-world data. My research sits at the intersection of **statistics, epidemiology, and genomics**, with the goal of producing tools and insights that inform public health and clinical decision-making.  
 
-  <div style="background: #f7f9fb; border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h2 style="margin-top: 0;">About My Work</h2>
-    <p>I am a <strong>biostatistician and infectious disease researcher</strong> focused on developing <strong>statistical methods</strong> and <strong>modeling approaches</strong> motivated by real-world data. My research sits at the intersection of <strong>statistics, epidemiology, and genomics</strong>, with the goal of producing tools and insights that inform public health and clinical decision-making.</p>
-    <p>I work closely with clinicians, epidemiologists, and genomic scientists to ensure my methods are <strong>clinically relevant</strong>, while also developing <strong>open-source software</strong> to make these approaches broadly accessible to the research community.</p>
-  </div>
+I work closely with clinicians, epidemiologists, and genomic scientists to ensure my methods are **clinically relevant**, while also developing **open-source software** to make these approaches broadly accessible to the research community.  
 
-  <div style="background: #fff; border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h2 style="margin-top: 0;">Training & Background</h2>
-    <p>I earned my <strong>PhD in Biostatistics</strong> from Boston University, where I worked with <a href="https://www.bu.edu/sph/profile/laura-white/">Dr. Laura White</a> to develop statistical methods for <strong>tuberculosis (TB) epidemiology</strong>. My doctoral research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB dynamics in <strong>high-risk populations</strong>. I also collaborated with <a href="https://sites.bu.edu/jacobson/">Dr. Karen Jacobson</a> at Boston Medical Center on applied TB studies in South Africa.</p>
-  </div>
+## Training & Background  
+I earned my **PhD in Biostatistics** from Boston University, where I worked with [Dr. Laura White](https://www.bu.edu/sph/profile/laura-white/) to develop statistical methods for **tuberculosis (TB) epidemiology**. My doctoral research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB dynamics in **high-risk populations**. I also collaborated with [Dr. Karen Jacobson](https://sites.bu.edu/jacobson/) at Boston Medical Center on applied TB studies in South Africa.  
 
-  <div style="background: #fdfdfd; border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h2 style="margin-top: 0;">Current Work</h2>
-    <p>As a <strong>postdoctoral research fellow</strong>, I study <strong>infectious disease transmission</strong> using <strong>phylodynamics, mathematical modeling, and machine learning</strong>. These approaches help investigate how pathogens spread and how interventions influence epidemic outcomes.</p>
-    <p>I continue TB transmission collaborations with Dr. White and Dr. Jacobson, and I partner with <a href="https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics">Dr. Ashlee Earl</a> at the Broad Institute on projects studying <strong>methicillin-resistant <em>Staphylococcus aureus</em> (MRSA)</strong> in nursing homes, integrating <strong>genomic and epidemiological data</strong> with <strong>phylodynamic models</strong>.</p>
-  </div>
+## Current Work  
+As a **postdoctoral research fellow**, I study **infectious disease transmission** using **phylodynamics, mathematical modeling, and machine learning**. These approaches help investigate how pathogens spread and how interventions influence epidemic outcomes.  
 
-  <div style="background: #fff; border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h2 style="margin-top: 0;">Funding</h2>
-    <p>💡 My postdoctoral training is supported by the <strong>National Institute of Allergy and Infectious Diseases</strong> (T32AI052074).</p>
-  </div>
+I continue TB transmission collaborations with Dr. White and Dr. Jacobson, and I partner with [Dr. Ashlee Earl](https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics) at the Broad Institute on projects studying **methicillin-resistant *Staphylococcus aureus* (MRSA)** in nursing homes, integrating **genomic and epidemiological data** with **phylodynamic models**.  
 
-</div>
+## Funding  
+💡 My postdoctoral training is supported by the **National Institute of Allergy and Infectious Diseases** (T32AI052074).  
+
 
 
 <!-- Statistical Methods -->
