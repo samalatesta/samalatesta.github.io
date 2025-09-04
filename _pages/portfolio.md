@@ -24,7 +24,7 @@ My postdoctoral training is supported by the **National Institute of Allergy and
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boston_Medical_Center_logo.svg/200px-Boston_Medical_Center_logo.svg.png" alt="Boston Medical Center" width="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Broad_Institute_logo.svg/200px-Broad_Institute_logo.svg.png" alt="Broad Institute" width="100"/>
+  <img src="images/download.png" alt="Broad Institute" width="100"/>
 </p>
 
 
