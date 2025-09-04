@@ -19,7 +19,7 @@ author_profile: true
   </span>
 
 </p>
----
+-----
 
 ## About My Work  
 I am a **biostatistician and infectious disease researcher** focused on developing **statistical methods** and **modeling approaches** motivated by real-world data with the goal of producing tools and insights that inform public health and clinical decision-making. I work closely with clinicians, epidemiologists, and other scientists to ensure my methods are **clinically relevant**, while also developing **open-source software** to make these approaches broadly accessible to the research community.  
