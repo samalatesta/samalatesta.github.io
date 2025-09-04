@@ -4,6 +4,18 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <span style="background:white; padding:5px; display:inline-block;">
+    <img src="../images/BOSTON_UNIV_CMYK.png" alt="BU SPH" height="80"/>
+  </span>
+  <span style="background:white; padding:5px; display:inline-block;">
+    <img src="../images/bmc.png" alt="Boston Medical Center" height="80"/>
+  </span>
+  <span style="background:white; padding:5px; display:inline-block;">
+    <img src="../images/broad.png" alt="Broad Institute" height="80"/>
+  </span>
+</p>
+
 ## About My Work  
 I am a **biostatistician and infectious disease researcher** focused on developing **statistical methods** and **modeling approaches** motivated by real-world data with the goal of producing tools and insights that inform public health and clinical decision-making. I work closely with clinicians, epidemiologists, and other scientists to ensure my methods are **clinically relevant**, while also developing **open-source software** to make these approaches broadly accessible to the research community.  
 
@@ -19,17 +31,6 @@ As a **postdoctoral research fellow**, I study **infectious disease transmission
 ## Funding  
 My postdoctoral training is supported by the **National Institute of Allergy and Infectious Diseases** (T32AI052074).  
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <span style="background:white; padding:5px; display:inline-block;">
-    <img src="../images/BOSTON_UNIV_CMYK.png" alt="BU SPH" height="80"/>
-  </span>
-  <span style="background:white; padding:5px; display:inline-block;">
-    <img src="../images/bmc.png" alt="Boston Medical Center" height="80"/>
-  </span>
-  <span style="background:white; padding:5px; display:inline-block;">
-    <img src="../images/broad.png" alt="Broad Institute" height="80"/>
-  </span>
-</p>
 
 <h2>Statistical Methods</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
