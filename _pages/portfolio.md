@@ -6,10 +6,10 @@ author_profile: true
 ---
 <p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <span style="background:white; padding:5px; display:inline-block;">
-    <img src="../images/BOSTON_UNIV_CMYK.png" alt="BU SPH" height="80"/>
+    <img src="../images/BOSTON_UNIV_CMYK.png" alt="BU SPH" height="60"/>
   </span>
   <span style="background:white; padding:5px; display:inline-block;">
-    <img src="../images/bmc.png" alt="Boston Medical Center" height="80"/>
+    <img src="../images/bmc.png" alt="Boston Medical Center" height="85"/>
   </span>
   <span style="background:white; padding:5px; display:inline-block;">
     <img src="../images/broad.png" alt="Broad Institute" height="80"/>
