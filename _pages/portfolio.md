@@ -19,6 +19,14 @@ As a **postdoctoral research fellow**, I study **infectious disease transmission
 ## Funding  
 My postdoctoral training is supported by the **National Institute of Allergy and Infectious Diseases** (T32AI052074).  
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Boston_University_Terriers_logo.svg" alt="Boston University" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Boston_Medical_Center_logo.svg" alt="Boston Medical Center" width="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Broad_Institute_logo.svg" alt="Broad Institute" width="120"/>
+</p>
+
 <h2>Statistical Methods</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
