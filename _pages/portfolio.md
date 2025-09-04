@@ -4,7 +4,6 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-
 ## About My Work  
 I am a **biostatistician and infectious disease researcher** focused on developing **statistical methods** and **modeling approaches** motivated by real-world data. My research sits at the intersection of **statistics, epidemiology, and infectious disease**, with the goal of producing tools and insights that inform public health and clinical decision-making.  
 
@@ -12,8 +11,9 @@ I work closely with clinicians, epidemiologists, and computational scientists to
 
 -----
 ## Training & Background  
-I earned my PhD in Biostatistics from Boston University, where I worked with [Dr. Laura White](https://www.bu.edu/sph/profile/laura-white/) to develop statistical methods for questions in **tuberculosis (TB) epidemiology**. My doctoral research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB dynamics in **high-risk populations**. I also collaborated with [Dr. Karen Jacobson](https://sites.bu.edu/jacobson/) at Boston Medical Center on applied TB studies in South Africa.  
+I earned my PhD in Biostatistics from Boston University, where I worked with [Dr. Laura White](https://www.bu.edu/sph/profile/laura-white/) to develop statistical methods for questions in **tuberculosis (TB) epidemiology**. My doctoral research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB dynamics in **high-risk populations**. I also collaborated with [Dr. Karen Jacobson](https://sites.bu.edu/jacobson/) at Boston Medical Center on applied TB studies in South Africa. 
 
+-----
 ## Current Work  
 As a **postdoctoral research fellow**, I study **infectious disease transmission** using **phylodynamics, mathematical modeling, and machine learning**. These approaches help investigate how pathogens spread and how interventions influence epidemic outcomes.  
 
@@ -23,7 +23,6 @@ I continue TB transmission collaborations with Dr. White and Dr. Jacobson. I hav
 ## Funding  
 My postdoctoral training is supported by the **National Institute of Allergy and Infectious Diseases** (T32AI052074).  
 
-<!-- Statistical Methods -->
 <h2>Statistical Methods</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
