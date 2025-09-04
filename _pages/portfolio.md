@@ -9,6 +9,7 @@ author_profile: true
 I am a **biostatistician and infectious disease researcher** focused on developing **statistical methods** and **modeling approaches** motivated by real-world data. My research sits at the intersection of **statistics, epidemiology, and infectious disease**, with the goal of producing tools and insights that inform public health and clinical decision-making.  
 
 I work closely with clinicians, epidemiologists, and computational scientists to ensure my methods are **clinically relevant**, while also developing **open-source software** to make these approaches broadly accessible to the research community.  
+
 -----
 ## Training & Background  
 I earned my PhD in Biostatistics from Boston University, where I worked with [Dr. Laura White](https://www.bu.edu/sph/profile/laura-white/) to develop statistical methods for questions in **tuberculosis (TB) epidemiology**. My doctoral research focused on integrating complex data sources and addressing methodological challenges in observational data to better understand TB dynamics in **high-risk populations**. I also collaborated with [Dr. Karen Jacobson](https://sites.bu.edu/jacobson/) at Boston Medical Center on applied TB studies in South Africa.  
@@ -17,6 +18,7 @@ I earned my PhD in Biostatistics from Boston University, where I worked with [Dr
 As a **postdoctoral research fellow**, I study **infectious disease transmission** using **phylodynamics, mathematical modeling, and machine learning**. These approaches help investigate how pathogens spread and how interventions influence epidemic outcomes.  
 
 I continue TB transmission collaborations with Dr. White and Dr. Jacobson, and I have expanded to work with [Dr. Ashlee Earl](https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics) at the Broad Institute on projects studying **methicillin-resistant *Staphylococcus aureus* (MRSA)** transmission in nursing homes, leveraging **phylodynamic models** that **integrate genomic and epidemiological data**.  
+
 -----
 ## Funding  
 My postdoctoral training is supported by the **National Institute of Allergy and Infectious Diseases** (T32AI052074).  
