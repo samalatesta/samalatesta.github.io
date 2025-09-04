@@ -17,7 +17,7 @@ I earned my PhD in Biostatistics from Boston University, where I worked with [Dr
 ## Current Work  
 As a **postdoctoral research fellow**, I study **infectious disease transmission** using **phylodynamics, mathematical modeling, and machine learning**. These approaches help investigate how pathogens spread and how interventions influence epidemic outcomes.  
 
-I continue TB transmission collaborations with Dr. White and Dr. Jacobson, and I have expanded to work with [Dr. Ashlee Earl](https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics) at the Broad Institute on projects studying **methicillin-resistant *Staphylococcus aureus* (MRSA)** transmission in nursing homes, leveraging **phylodynamic models** that **integrate genomic and epidemiological data**.  
+I continue TB transmission collaborations with Dr. White and Dr. Jacobson. I have also expanded to work with [Dr. Ashlee Earl](https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics) at the Broad Institute on a project studying **methicillin-resistant *Staphylococcus aureus* (MRSA)** transmission in nursing homes in which we are leveraging **phylodynamic models** that **integrate genomic and epidemiological data**.  
 
 -----
 ## Funding  
