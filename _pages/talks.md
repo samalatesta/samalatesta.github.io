@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Invited talks and conference presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -39,9 +39,8 @@ author_profile: true
   map.fitBounds(bounds, { padding: [50, 50] });
 </script>
 
-Here’s a curated list of invited talks and conference presentations I’ve given. 
+Below is a curated list of invited talks and conference presentations I’ve given. 
 
----
 
 ## 2025 (Upcoming)
 
