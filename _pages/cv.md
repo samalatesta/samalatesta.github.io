@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](https://github.com/samalatesta/samalatesta.github.io/blob/master/files/Malatesta_CV_Oct_2025.pdf) with complete list of publications (last updated August 2025). 
+[CV](https://github.com/samalatesta/samalatesta.github.io/blob/master/files/Malatesta_CV_Oct_2025.pdf) with complete list of publications. 
 
 Education
 ======
