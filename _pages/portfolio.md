@@ -94,7 +94,7 @@ My postdoctoral training is supported by the **National Institute of Allergy and
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>TB Prevalence Among People Who Smoke Drugs</h3> 
     <p>Estimated TB and HIV prevalence among people who smoke drugs in a rural community in South Africa using a <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262440">respondent-driven sample</a> of 750 participants. TB prevalence was ~10% which was three times higher than community rates.</p>
-    <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5010346](https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiaf481/8277603?redirectedFrom=fulltext">Publication</a></p>
+    <p><a href="https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiaf481/8277603?redirectedFrom=fulltext">Publication</a></p>
   </div>
 
 </div>
