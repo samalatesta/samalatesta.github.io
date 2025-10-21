@@ -17,7 +17,7 @@ For a complete and up-to-date list, see my [PubMed profile](https://www.ncbi.nlm
 
 ---
 
-### Applied Infectious Disease Research  
+### TB Clinical Epidemiology 
 
 - Wijk M, Denti P, Gausi K, Myers B, Carney T, White LF, Theron D, Parry CDH, Horsburgh CR, Rawoot N, Warren RM, Court R, Kulkarni SG, Farhat MR, Buys C, **Malatesta S**, Weber SE, Kulkarni S, McIlleron H, Jacobson KR, Kloprogge F. Insights into the Role of Rifampicin Exposure and Clinical Baseline Covariates on the Response to Pulmonary Tuberculosis Treatment. Clinical Infectious Diseases. Accepted.
 - Thompson S, Overbeck V, Theron D, Botha B, **Malatesta S**, Bouton T, Niemand N, Ratangee F, Campbell J, Cesare N, Kulkarni S, Meade C, Horsburgh CR, White L,  Myers B, Warren RM, Carney Tara, Jacobson KR. Linkage to tuberculosis and HIV care for persons who smoke illicit drugs: a prospective cohort study. Int J Tuberc Lung Dis. Accepted. 
