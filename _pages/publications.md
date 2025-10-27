@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For a complete and up-to-date list, see my [PubMed profile](https://www.ncbi.nlm.nih.gov/myncbi/samantha.malatesta.2/bibliography/public/).  
+For a complete and up-to-date list, see my [CV](https://github.com/samalatesta/samalatesta.github.io/blob/master/files/Malatesta_CV_Oct_2025.pdf).  
 
 ---
 
