@@ -42,7 +42,7 @@ author_profile: true
 Below is a curated list of invited talks and conference presentations I’ve given. 
 
 
-## 2025 (Upcoming)
+## 2025
 
 ### **The Union World Conference on Lung Health**
 - **Title:** *Smoked drug use drives tuberculosis transmission dynamics in a rural community in the Western Cape, South Africa*  
