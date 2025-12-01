@@ -11,7 +11,7 @@ For a complete and up-to-date list, see my [CV](https://github.com/samalatesta/s
 
 ### Statistical Methods  
 
-- **Malatesta S**, Jacobson KR, Horsburgh CR, Carney T, Farhat M, Gile KJ, Kolaczyk ED, White LF. An Integrated Data-Driven Model for Clinical Phenotyping of Tuberculosis Disease Severity. Under review. 
+- **Malatesta S**, Jacobson KR, Horsburgh CR, Carney T, Farhat M, Gile KJ, Kolaczyk ED, White LF. An Integrated Data-Driven Model for Clinical Phenotyping of Tuberculosis Disease Severity. https://doi.org/10.1101/2025.11.25.25341018. Under review. 
 - **Malatesta S**, Jacobson KR, Carney T, Kolaczyk ED, Gile KJ, White LF. Inferring bivariate association with continuous data from a respondent-driven sample. Journal of the Royal Statistical Society Series C: Applied Statistics. 2025;74(2):429-446. doi:10.1093/jrsssc/qlae061
 - **Malatesta S**, Weir IR, Weber SE, Bouton TC, Carney T, Theron D, Myers B, Horsburgh CR, Warren RM, Jacobson KR, White LF. Methods for handling missing data in serially sampled sputum specimens for mycobacterial culture conversion calculation. BMC Med Res Methodol. 2022;22(1):297. doi:10.1186/s12874-022-01782-8
 
