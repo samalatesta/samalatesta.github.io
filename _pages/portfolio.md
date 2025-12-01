@@ -46,6 +46,7 @@ My postdoctoral training is supported by the **National Institute of Allergy and
     <p>Developed <strong>TB-STATIS</strong>, a model that integrates clinical information (symptoms, smear, chest X-ray) to generate TB disease phenotypes and stratify patients.</p>
     <p><strong>Software:</strong> <a href="https://github.com/samalatesta/tbSTATIS">tbSTATIS</a></p>
     <p><strong>Data Application:</strong> <a href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3396-y">TRUST study (a TB clinical cohort)</a> and the <a href="https://www.tballiance.org/trial/remoxtb/">REMox trial</a></p>
+        <p><a href="https://www.medrxiv.org/content/10.1101/2025.11.25.25341018v1">Publication</a></p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -78,7 +79,6 @@ My postdoctoral training is supported by the **National Institute of Allergy and
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3>TB Transmission and Substance Use</h3>
     <p>Applying <a href="https://academic.oup.com/ije/article/49/3/764/5811379">mlTransEpi</a>, a machine learning method that integrates whole genome sequencing and metadata, to explore TB transmission dynamics among people who smoke drugs in a rural community in South Africa.</p>
-    <p><strong>Upcoming talk at the Union World Conference on Lung Health 2025</strong> </p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 12px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
