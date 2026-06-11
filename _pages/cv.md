@@ -17,11 +17,15 @@ Education
 
 Research Positions
 ======
-* 2025 - Present: Visiting Postdoctoral Scholar
+* 2026 - Present: Instructor of Medicine
+  * Boston University Chobanian & Avedisian School of Medicine, Section of Infectious Diseases
+  * Boston, MA
+    
+* 2025 - Present: Visiting Scholar
   * Bacterial Genomics Group, Genomic Center for Infectious Diseases
   * Broad Institute of MIT and Harvard, Cambridge, MA
 
-* 2024 - Present: Postdoctoral Fellow
+* 2024 - 2026: Postdoctoral Fellow
   * Boston University Clinical HIV/AIDS Research Training Program
   * Section of Infectious Diseases, Boston Medical Center, Boston, MA
 
